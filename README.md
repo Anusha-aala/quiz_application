@@ -11,3 +11,6 @@ DURATION:4 WEEKS
 MENTOR:NEELA SANTHOSH
 
 CREATING INTERACTIVE QIZ APPLICATION
+
+OUTPUT:
+![image](https://github.com/user-attachments/assets/fd326a74-b7d3-49d8-815f-78593fd7c57f)
